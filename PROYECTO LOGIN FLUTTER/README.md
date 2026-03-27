@@ -1,5 +1,6 @@
 # Examen
 ## Flutter - front
+0. flutter build apk --force-rebuild
 1. flutter clean
 2. flutter pub get
 3. flutter run
